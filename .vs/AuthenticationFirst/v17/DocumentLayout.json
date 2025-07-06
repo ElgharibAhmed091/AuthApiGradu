@@ -1,0 +1,528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\models\\healthcareproviderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:models\\healthcareproviderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\migrations\\20250312000043_adddeleteaccounttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:migrations\\20250312000043_adddeleteaccounttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\models\\deleteaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:models\\deleteaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\dto\\deleteaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:dto\\deleteaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\models\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:models\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\dto\\healthcareprdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:dto\\healthcareprdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\migrations\\20250311231125_addchangepasstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:migrations\\20250311231125_addchangepasstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\models\\passwordresetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:models\\passwordresetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\authenticationfirst.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:authenticationfirst.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\authenticationfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:authenticationfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311184831_addChangePasswordModeltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250311184831_addChangePasswordModeltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\migrations\\20250310180441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:migrations\\20250310180441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250310191230_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250310191230_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\models\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:models\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\migrations\\20250311235950_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:migrations\\20250311235950_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\migrations\\20250311235746_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:migrations\\20250311235746_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\migrations\\20250311231742_addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:migrations\\20250311231742_addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\migrations\\20250311231527_addchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:migrations\\20250311231527_addchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|c:\\users\\44775\\desktop\\api\\chronic-diseases-management\\authentication\\authenticationfirst\\migrations\\20250311185037_addchangepasswordmodeltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEF4ED9-4AEE-4910-BD6F-E4F4A2AE2AA3}|AuthenticationFirst.csproj|solutionrelative:migrations\\20250311185037_addchangepasswordmodeltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250312000043_ADDDeleteAccountTABLE.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250312000043_ADDDeleteAccountTABLE.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250312000043_ADDDeleteAccountTABLE.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250312000043_ADDDeleteAccountTABLE.cs",
+              "RelativeToolTip": "Migrations\\20250312000043_ADDDeleteAccountTABLE.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:00:44.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250311235950_CREATEdb.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311235950_CREATEdb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250311235950_CREATEdb.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311235950_CREATEdb.cs",
+              "RelativeToolTip": "Migrations\\20250311235950_CREATEdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:59:50.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteAccount.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\DeleteAccount.cs",
+              "RelativeDocumentMoniker": "Models\\DeleteAccount.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\DeleteAccount.cs",
+              "RelativeToolTip": "Models\\DeleteAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:58:24.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250311235746_CREATETABLE.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311235746_CREATETABLE.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250311235746_CREATETABLE.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311235746_CREATETABLE.cs",
+              "RelativeToolTip": "Migrations\\20250311235746_CREATETABLE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:57:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\DTO\\DeleteAccountDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DeleteAccountDto.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\DTO\\DeleteAccountDto.cs",
+              "RelativeToolTip": "DTO\\DeleteAccountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:55:32.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250311231742_addtable.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311231742_addtable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250311231742_addtable.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311231742_addtable.cs",
+              "RelativeToolTip": "Migrations\\20250311231742_addtable.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:17:43.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250311231527_addChangePass.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311231527_addChangePass.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250311231527_addChangePass.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311231527_addChangePass.cs",
+              "RelativeToolTip": "Migrations\\20250311231527_addChangePass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:15:27.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250311231125_addChangePasstable.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311231125_addChangePasstable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250311231125_addChangePasstable.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311231125_addChangePasstable.cs",
+              "RelativeToolTip": "Migrations\\20250311231125_addChangePasstable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:11:27.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:32:22.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangePass.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\ChangePass.cs",
+              "RelativeDocumentMoniker": "Models\\ChangePass.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\ChangePass.cs",
+              "RelativeToolTip": "Models\\ChangePass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:13:49.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250311185037_addChangePasswordModeltable.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311185037_addChangePasswordModeltable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250311185037_addChangePasswordModeltable.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311185037_addChangePasswordModeltable.cs",
+              "RelativeToolTip": "Migrations\\20250311185037_addChangePasswordModeltable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:50:37.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250311184831_addChangePasswordModeltable.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311184831_addChangePasswordModeltable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250311184831_addChangePasswordModeltable.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250311184831_addChangePasswordModeltable.cs",
+              "RelativeToolTip": "Migrations\\20250311184831_addChangePasswordModeltable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:48:31.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChangePasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\ChangePasswordModel.cs",
+              "RelativeDocumentMoniker": "Models\\ChangePasswordModel.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\ChangePasswordModel.cs",
+              "RelativeToolTip": "Models\\ChangePasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:43:27.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationFirst.http",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\AuthenticationFirst.http",
+              "RelativeDocumentMoniker": "AuthenticationFirst.http",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\AuthenticationFirst.http",
+              "RelativeToolTip": "AuthenticationFirst.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-10T19:19:13.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:15:24.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250310191230_create.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250310191230_create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250310191230_create.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250310191230_create.cs",
+              "RelativeToolTip": "Migrations\\20250310191230_create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:12:30.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250310180441_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250310180441_initialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250310180441_initialcreate.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Migrations\\20250310180441_initialcreate.cs",
+              "RelativeToolTip": "Migrations\\20250310180441_initialcreate.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAgwKYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:04:42.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T17:58:11.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthenticationFirst.csproj",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\AuthenticationFirst.csproj",
+              "RelativeDocumentMoniker": "AuthenticationFirst.csproj",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\AuthenticationFirst.csproj",
+              "RelativeToolTip": "AuthenticationFirst.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T17:58:04.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Models\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\IEmailService.cs",
+              "RelativeToolTip": "Models\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:50:51.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:49:53.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAIcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:43:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthcareProviderInfo.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\HealthcareProviderInfo.cs",
+              "RelativeDocumentMoniker": "Models\\HealthcareProviderInfo.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\HealthcareProviderInfo.cs",
+              "RelativeToolTip": "Models\\HealthcareProviderInfo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:36:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:35:22.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthCarePrDto.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\DTO\\HealthCarePrDto.cs",
+              "RelativeDocumentMoniker": "DTO\\HealthCarePrDto.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\DTO\\HealthCarePrDto.cs",
+              "RelativeToolTip": "DTO\\HealthCarePrDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:35:07.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\DTO\\PatientDto.cs",
+              "RelativeDocumentMoniker": "DTO\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\DTO\\PatientDto.cs",
+              "RelativeToolTip": "DTO\\PatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:34:51.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordResetCode.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\PasswordResetCode.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordResetCode.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\PasswordResetCode.cs",
+              "RelativeToolTip": "Models\\PasswordResetCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:33:44.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T17:26:59.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAqwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:20:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:19:08.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\44775\\Desktop\\API\\CHRONIC-DISEASES-MANAGEMENT\\Authentication\\AuthenticationFirst\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:18:41.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
